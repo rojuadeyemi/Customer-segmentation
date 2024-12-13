@@ -25,27 +25,17 @@ This project applies clustering techniques on a dataset containing customer demo
 - Used techniques like the elbow method and silhouette scores to determine the optimal number of clusters.  
 
 ### 5. Validation and Profiling  
-- Created detailed profiles for each segment, describing characteristics like average spend, purchase frequency.  
-
-### 6. Insights and Recommendations  
-See [Results](Customer Segmentation.pptx)
- 
+- Created detailed profiles for each segment, describing characteristics like average spend, purchase frequency. 
+ [model development](segmentation_notebook.ipynb)
 
 ## Outcome  
-This project delivered a detailed segmentation of the customer base, empowering the business to make data-driven decisions. It helped identify opportunities for improving customer engagement, optimizing marketing campaigns, and increasing revenue.  
+This project delivered a detailed segmentation of the customer base, empowering the business to make data-driven decisions. It helped identify opportunities for improving customer engagement, optimizing marketing campaigns, and increasing revenue. ([Results](Customer%20Segmentation.pptx))
 
 ## Tools and Technologies Used  
 - **Programming Languages:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)  
 - **Algorithms:** K-means clustering  
 - **Visualization:** Power BI, and Matplotlib for reporting  
-- **Additional Tools:** Jupyter Notebook for analysis and presentations  
-
-## Business Impact  
-- Enhanced understanding of customer needs and preferences  
-- Increased ROI through targeted marketing and personalized customer experiences  
-- Improved customer satisfaction and loyalty by tailoring services to specific segments  
-
-
+- **Additional Tools:** Jupyter Notebook for analysis and presentations 
 
 ## Model Deployment
 

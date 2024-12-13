@@ -1,6 +1,6 @@
 # Environment variables
 .venv
-
+.gitignore
 
 # Python
 __pycache__/
